@@ -8,4 +8,5 @@ Machine learning works the same way. We'll start with a model called the Decisio
 This Machine Learning project involves loading and analysing Iowa house price data with the view of predicting house prices going forward.
 We begin by using a simple Decision Tree model to predict these house prices and then we compare the accuracy(Mean absolute error) of this model to a RandomForestRegressor model. 
 
-We also look at how the initial data set and features(variables used in the model) can be cleaned and filled(imputed) to unsure the model returns realistic predictions.
+We also look at how we handle missing values in the initial data set. 
+
